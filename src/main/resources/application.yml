@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: testbot-0
+  profiles:
+    active: dev

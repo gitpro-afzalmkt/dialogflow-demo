@@ -1,0 +1,5 @@
+chatbotconfiguration: 
+  google:
+    name: Bot
+    projectid: hybrid-life-370707
+    languageCode: en-US
